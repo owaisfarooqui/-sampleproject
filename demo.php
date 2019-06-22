@@ -6,5 +6,6 @@ echo "This is developer branch";
 
 echo "This are changed made in master";
 echo "Stash command uses";
+echo "This is demo example"; 
 
 ?>
